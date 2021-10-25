@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"vpc_for_node_pool_extension","Source":"../modules/vpc","Dir":"../modules/vpc"},{"Key":"","Source":"","Dir":"."},{"Key":"gke_for_node_pool_extension","Source":"../modules/kubernetes-engine","Dir":"../modules/kubernetes-engine"}]}

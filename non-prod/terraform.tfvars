@@ -1,0 +1,13 @@
+test_vpc_name = "pool-extension-test-vpc"
+test_project_id =  "et-telco-xl-comet"
+test_region =  "asia-southeast2"
+test_gke_name = "original-gke-cluster"
+test_original_node_pool = "original-node-pool"
+test_primary_subnet_name = "primary-subnet"
+test_first_pod_subnet = "first-pod-subnet"
+test_first_svc_subnet = "first-svc-subnet"
+test_second_pod_subnet = "second-pod-subnet"
+test_second_svc_subnet = "second-svc-subnet"
+test_gke_num_nodes = 2
+test_gke_secondary_num_nodes = 2
+test_secondary_node_pool = "secondary-node-pool"
